@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\btn_cancel.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\btn_del.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\image_selected.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\image_selected.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_confirm.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\btn_confirm.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_pic.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable\\btn_add_pic.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_unfocused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_del_focused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_del_focused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_cancel_unfocused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_cancel_unfocused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tag_selected2.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\tag_selected2.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_img.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\bg_img.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_confirm_focused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_confirm_focused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_cancel_focused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_cancel_focused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tag_selected.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\tag_selected.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_confirm_unfocused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_confirm_unfocused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_addpic_focused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_del_unfocused.png",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\drawable-hdpi\\icon_del_unfocused.png"
+    }
+]

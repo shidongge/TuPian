@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAndWebview/AndroidAndWebview.iml" filepath="$PROJECT_DIR$/AndroidAndWebview/AndroidAndWebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DongHua/DongHua.iml" filepath="$PROJECT_DIR$/DongHua/DongHua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DongTaiBiZhi/DongTaiBiZhi.iml" filepath="$PROJECT_DIR$/DongTaiBiZhi/DongTaiBiZhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuanXinYanZhen/DuanXinYanZhen.iml" filepath="$PROJECT_DIR$/DuanXinYanZhen/DuanXinYanZhen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErWeiMa/ErWeiMa.iml" filepath="$PROJECT_DIR$/ErWeiMa/ErWeiMa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GlideTuPian/GlideTuPian.iml" filepath="$PROJECT_DIR$/GlideTuPian/GlideTuPian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GongJuLei/GongJuLei.iml" filepath="$PROJECT_DIR$/GongJuLei/GongJuLei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVP/MVP.iml" filepath="$PROJECT_DIR$/MVP/MVP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanXian/QuanXian.iml" filepath="$PROJECT_DIR$/QuanXian/QuanXian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShouShiMingLing/ShouShiMingLing.iml" filepath="$PROJECT_DIR$/ShouShiMingLing/ShouShiMingLing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TanTan/TanTan.iml" filepath="$PROJECT_DIR$/TanTan/TanTan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuPianXuanZeQi/TuPianXuanZeQi.iml" filepath="$PROJECT_DIR$/TuPianXuanZeQi/TuPianXuanZeQi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebViewCli/WebViewCli.iml" filepath="$PROJECT_DIR$/WebViewCli/WebViewCli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YiTiLan/YiTiLan.iml" filepath="$PROJECT_DIR$/YiTiLan/YiTiLan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liubuju/liubuju.iml" filepath="$PROJECT_DIR$/liubuju/liubuju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiPhotoPicker/multiPhotoPicker.iml" filepath="$PROJECT_DIR$/multiPhotoPicker/multiPhotoPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliderdonghua/sliderdonghua.iml" filepath="$PROJECT_DIR$/sliderdonghua/sliderdonghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelayout/swipelayout.iml" filepath="$PROJECT_DIR$/swipelayout/swipelayout.iml" />
+    </modules>
+  </component>
+</project>

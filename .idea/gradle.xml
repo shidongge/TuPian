@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidAndWebview" />
+            <option value="$PROJECT_DIR$/DongHua" />
+            <option value="$PROJECT_DIR$/DongTaiBiZhi" />
+            <option value="$PROJECT_DIR$/DuanXinYanZhen" />
+            <option value="$PROJECT_DIR$/ErWeiMa" />
+            <option value="$PROJECT_DIR$/GlideTuPian" />
+            <option value="$PROJECT_DIR$/GongJuLei" />
+            <option value="$PROJECT_DIR$/MVP" />
+            <option value="$PROJECT_DIR$/QuanXian" />
+            <option value="$PROJECT_DIR$/ShouShiMingLing" />
+            <option value="$PROJECT_DIR$/TanTan" />
+            <option value="$PROJECT_DIR$/TuPianXuanZeQi" />
+            <option value="$PROJECT_DIR$/WebViewCli" />
+            <option value="$PROJECT_DIR$/YiTiLan" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/liubuju" />
+            <option value="$PROJECT_DIR$/multiPhotoPicker" />
+            <option value="$PROJECT_DIR$/sliderdonghua" />
+            <option value="$PROJECT_DIR$/swipelayout" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

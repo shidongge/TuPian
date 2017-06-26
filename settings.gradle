@@ -1,0 +1,2 @@
+include ':app', ':sliderdonghua', ':liubuju', ':swipelayout', ':QuanXian', ':ShouShiMingLing', ':AndroidAndWebview', ':WebViewCli', ':DuanXinYanZhen', ':DuanXinYanZhen', ':TuPianXuanZeQi', ':TanTan', ':MVP', ':GongJuLei', ':GlideTuPian', ':DongHua', ':ErWeiMa', ':YiTiLan', ':DongTaiBiZhi'
+include ':multiPhotoPicker'

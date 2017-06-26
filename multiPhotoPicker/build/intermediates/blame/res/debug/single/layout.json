@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\act_zoom.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\act_zoom.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\item_publish.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_choose.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\act_image_choose.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_bucket_choose.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\header_titlebar.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\header_titlebar.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_list.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\item_image_list.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\item_bucket_list.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\item_bucket_list.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindow.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\item_popupwindow.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\multiPhotoPicker\\build\\intermediates\\res\\merged\\debug\\layout\\act_publish.xml",
+        "source": "F:\\MyApplication\\multiPhotoPicker\\src\\main\\res\\layout\\act_publish.xml"
+    }
+]
